@@ -157,6 +157,7 @@ in
 
       hardwareSKU = mkOption {
         type = types.enum [
+          "framework13-gen12"
           "x280"
           "elitebook645g11"
           "latitude5340"

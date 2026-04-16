@@ -4,6 +4,7 @@
 
 {
   imports = [
+    ./framework13-gen12.nix
     ./x280.nix
     ./elitebook645g11.nix
     ./latitude5340.nix
