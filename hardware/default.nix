@@ -10,5 +10,6 @@
     ./t14g6.nix
     ./x9-15.nix
     ./e14-g7.nix
+    ./framework13-gen12.nix
   ];
 }

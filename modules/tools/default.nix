@@ -6,6 +6,9 @@
 {
   imports = [ ./firefox.nix ];
 
+  # TODO: when we will have build capacity, we can re-enable it.
+  documentation.man.man-db.enable = false;
+
   programs.mtr.enable = true;
 
   environment.systemPackages = with pkgs; [
