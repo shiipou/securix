@@ -164,6 +164,7 @@ in
           "x9-15"
           "e14-g7"
           "x13-20ug"
+          "framework13"
         ];
         description = "Identifiant de configuration du matériel";
         example = "x280";
