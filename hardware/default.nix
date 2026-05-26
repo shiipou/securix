@@ -12,5 +12,6 @@
     ./e14-g7.nix
     ./x13-20ug.nix
     ./framework13.nix
+    ./vm.nix
   ];
 }

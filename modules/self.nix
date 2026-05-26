@@ -165,6 +165,7 @@ in
           "e14-g7"
           "x13-20ug"
           "framework13"
+          "vm"
         ];
         description = "Identifiant de configuration du matériel";
         example = "x280";
